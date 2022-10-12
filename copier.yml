@@ -2,5 +2,6 @@ project_name:
   type: str
   help: What is your project name?
 
-_exclude: ["copier.yaml", "copier.yml", "~*", "*.py[co]", "__pycache__", ".git", ".DS_Store", ".svn", "node_modules", ".idea", "*.iml", "README.md"]
+_subdirectory: template
 _templates_suffix: ""
+_exclude: ["copier.yaml", "copier.yml", "~*", "*.py[co]", "__pycache__", ".git", ".DS_Store", ".svn", "node_modules", ".idea", "*.iml", "README.md"]
