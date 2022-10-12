@@ -11,8 +11,7 @@
     "moleculer-repl": "^0.7.3"
   },
   "dependencies": {
-    "amqplib": "^0.10.3",
-    "moleculer": "^0.14.23",
+    "moleculer": "^0.14.24",
     "moleculer-web": "^0.10.4"
   }
 }
